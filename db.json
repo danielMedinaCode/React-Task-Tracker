@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Brush Teeth",
+      "day": "Every Morning at 7am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Eat Breakfast",
+      "day": "Every Morning at 10am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Gym Session",
+      "day": " Tuesday and Friday at 6pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
